@@ -1,0 +1,11 @@
+# git aliases
+alias gitb="git branch"
+alias gitch="git checkout"
+alias gits="git status"
+alias gitpo="git push origin"
+alias gitp="git pull"
+alias gitf="git fetch"
+alias gitcm="git commit -m "
+alias gitst="git stash"
+alias gitstl="git stash list"
+alias gitstm="git stash -u -m "
